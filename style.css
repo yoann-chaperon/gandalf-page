@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Piedra&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap');
+body {
+    height: 100vh;
+    display: grid;
+  text-align:center;
+   background-image: url('https://images5.alphacoders.com/478/thumb-1920-478454.jpg');
+  color: rgb(216, 190, 42);
+}
+
+img {
+  max-width:0%;
+  margin:auto;
+  display:block; 
+}
+
+#tribute-info {
+  margin:400px 200px 50px 200px;
+  font-family: 'Cormorant Garamond', serif;
+  font-size:1.5em;
+  
+}
+#title {
+  font-family: 'Piedra', cursive;
+  font-size: 5em;
+}
+a{
+  color: rgb(216, 190, 42);
+  padding: 0px 0px 50px 0px;
+}
+#img-caption {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.8em
+}
